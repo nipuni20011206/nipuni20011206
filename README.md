@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/9c4d9053-1617-446d-9f81-2818e06b302d)
+
 <h1 align="center">Hi 👋, I'm Nipuni Bandara</h1>
 <h3 align="center">A passionate Software Engineer student from Sri Lanka</h3>
 
