@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nipuni Bandara</h1>
 <h3 align="center">A passionate Software Engineer student from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Wordpress**
+- 🌱 I’m currently learning and seeking new technologies
 
 - 💬 Ask me about **MERN, Java, JavaScript, HTML, CSS, SQL**
 
